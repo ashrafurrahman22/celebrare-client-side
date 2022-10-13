@@ -3,7 +3,7 @@ import circle from '../assets/circle.png'
 
 const Features = () => {
   return (
-    <div className="px-12">
+    <div className="px-12 lg:pt-60 pb-10">
       <h2 className="text-center text-4xl font-medium py-4">Features</h2>
       <div className="grid lg:grid-cols-3 justify-center items-center border border-black rounded-3xl p-6">
 
